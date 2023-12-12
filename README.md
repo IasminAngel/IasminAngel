@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=herokuapp&weight=500&size=35&pause=1000&center=true&Center=true&width=1000&lines=MY+NAME+is+Iasmin+Angel;I'm+19+years+old;I'm+From+Brazil;I+Studying+System+Development" alt="Typing SVG" /></a>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iasmin-angel&show_icons=true&count_private=true&hide_border=true&title_color=65e6fc&icon_color=65efc&text_color=c9d1d9&bg_color=0d1117" alt="Iasmin Angel github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iasmin-angel&show_icons=true&count_private=true&hide_border=true&title_color=65e6fc&icon_color=FA73E3&text_color=FA73E3&bg_color=0d1117" alt="Iasmin Angel github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminAngel&layout=compact&hide_border=true&title_color=65e6fc4&text_color=65e6fc&bg_color=0d1117" />
 </div>
 
@@ -24,4 +24,4 @@
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65e6fc&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA73E3&height=120&section=header"/>
