@@ -14,8 +14,7 @@
 <div align="center"> 
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
 <a href="https://www.linkedin.com/in/iasmin-angel-rodrigues-moreira-898264289/"></a>
-</a> 
- </div>
+</div>
 
  ### Main skills:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
