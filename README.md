@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA73E3&height=120&section=header"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=herokuapp&weight=500&size=35&pause=800&center=true&Center=true&width=100%&lines= https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=800&color=CD5EC5&random=false&width=435&lines= My+Name+is+Iasmin+Angel;I'm+19+years+old;I'm+From+Brazil;I+Studying+System+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src= [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=1000&color=CD5EC5&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) alt= "Typing SVG" /></a>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iasmin-angel&show_icons=true&count_private=true&hide_border=true&title_color=65e6fc&icon_color=FA73E3&text_color=FA73E3&bg_color=0d1117" alt="Iasmin Angel github stats" /> 
