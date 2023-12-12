@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65e6fc&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA73E3&height=120&section=header"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=herokuapp&weight=500&size=35&pause=1000&center=true&Center=true&width=1000&lines=MY+NAME+is+Iasmin+Angel;I'm+19+years+old;I'm+From+Brazil;I+Studying+System+Development" alt="Typing SVG" /></a>
 
 <div align="center">  
