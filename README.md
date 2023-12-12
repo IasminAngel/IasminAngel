@@ -24,7 +24,6 @@
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IasminAngel}/count.svg" /></p> 
 <br>
 </div>
