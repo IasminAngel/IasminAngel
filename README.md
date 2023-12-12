@@ -23,9 +23,5 @@
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
 
-<div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IasminAngel}/count.svg" /></p> 
-<br>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65e6fc&height=120&section=header"/>
