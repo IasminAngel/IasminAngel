@@ -12,9 +12,12 @@
 </p>
 
 <div align="center"> 
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-<a href="https://www.linkedin.com/in/iasmin-angel-rodrigues-moreira-898264289/"></a>
-</div>
+<a href="https://instagram.com/albertclaudioo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:albertclaudioa.nascimento@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/albert-claudio-nascimento-01072005y18/" target="_blank"></a>
+<a href="https://albert-claudio.github.io/" target="_blank"><img src="https://albert-claudio.github.io/images/ac.ico"></a>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
  ### Main skills:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
