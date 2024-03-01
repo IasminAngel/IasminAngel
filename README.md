@@ -20,7 +20,7 @@
 
  ### Main skills:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logoColor=blue&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
