@@ -21,18 +21,19 @@
  </div>
 
  ### Main skills:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&logoColor=blue&labelColor=0D1117)&nbsp; 
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=blue&labelColor=0D1117)&nbsp;
-
+![C](https://img.shields.io/badge/C-0000ff?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-004d99?style=for-the-badge&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ### Studying in this moment:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=blue&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&logoColor=blue&labelColor=0D1117)&nbsp; 
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=blue&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=blue&labelColor=0D1117)&nbsp;
-![html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=blue&labelColor=0D1117)&nbsp;
-![css](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&logoColor=blue&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
-
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-0000ff?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3333ff?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-004d99?style=for-the-badge&logo=MySQL&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA73E3&height=120&section=header"/>
