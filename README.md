@@ -15,7 +15,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=IasminAngel&theme=radical&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=IasminAngel&show_icons=true&theme=radical"
         alt="Github Stats"
       />
     </td>
