@@ -59,7 +59,7 @@
  ### Studying:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,django" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,django,c++" />
   </a>
 </p>
 
