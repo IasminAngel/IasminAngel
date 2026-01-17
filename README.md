@@ -1,6 +1,6 @@
 <h2> Hi, I'm Iasmin Angel !</h2>
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lyb3dzZnhyZHMybnJjaHA1b3h0aHQxMjk0eXR1MjltdGtyc3BxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="230">
-<p><em>Development Analyst at <a href="http://www.unb.br">Nova Corrente</a></br>Systems development technique at <a href="https://international.nubank.com.br/about/">SENAI BA</a></br>Undergraduate student in Data Science and Artificial Intelligence at <a href="https://international.nubank.com.br/about/">SENAI CIMATEC</a>
+<p><em>Development Analyst at <a href="https://www.novacorrente.ind.br">Nova Corrente</a></br>Systems development technique at <a href="https://www.senaibahia.com.br">SENAI BA</a></br>Undergraduate student in Data Science and Artificial Intelligence at <a href="https://www.senaicimatec.com.br">SENAI CIMATEC</a>
 </em></p>
 
 [![GitHub IasminAngel](https://img.shields.io/github/followers/IasminAngel?label=follow&style=social)](https://github.com/IasminAngel)
