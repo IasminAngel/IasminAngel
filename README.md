@@ -1,46 +1,24 @@
-## Olá, meu nome é Iasmin Angel ! ☕
+<h2> Hi, I'm Iasmin Angel !</h2>
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lyb3dzZnhyZHMybnJjaHA1b3h0aHQxMjk0eXR1MjltdGtyc3BxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="230">
+<p><em>Development Analyst at <a href="http://www.unb.br">Nova Corrente</a></br>Systems development technique at <a href="https://international.nubank.com.br/about/">SENAI BA</a></br>Undergraduate student in Data Science and Artificial Intelligence at <a href="https://international.nubank.com.br/about/">SENAI CIMATEC</a>
+</em></p>
 
-### ⚙️ GitHub Analytics
+[![GitHub IasminAngel](https://img.shields.io/github/followers/IasminAngel?label=follow&style=social)](https://github.com/IasminAngel)
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminAngel&hide_progress=true&theme=radical"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=IasminAngel&show_icons=true&theme=radical"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd2cGNrOTdqdHVzYWVmbjE4MzVsMGNnMnRienl5emdvMmJvN2QxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IonUQFbDMmaoDLcIgx/giphy.gif" width="30"> A little more about me...  
 
---- 
+```javascript
+const angel = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Node, Styled-Components, Jest, Docker, SQL],
+  challenge: "Building and evolving my portfolio by continuously adding current, in-progress projects.”
+}
+```
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=IasminAngel&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+<em><b>I love connecting with people. If you feel like saying hi, I’d be happy to chat and get to know you !</b></em>
 
 ---
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IasminAngel&bg_color=0d1117&color=CC33B4&line=43aae6&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://instagram.com/angels.workstation" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
