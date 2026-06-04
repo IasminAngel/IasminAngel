@@ -9,7 +9,6 @@
 
 ```javascript
 const angel = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Styled-Components, Jest, Docker, SQL],
   challenge: "Building and evolving my portfolio by continuously adding current, in-progress projects.”
