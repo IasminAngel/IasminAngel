@@ -29,14 +29,14 @@ const angel = {
  ### Main skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,docker,c,javascript,nodejs,python,mysql,postgresql,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,figma,docker,c,javascript,nodejs,python,mysql,postgresql,html,css,react,typescript" />
   </a>
 </p>
 
  ### Studying:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,django,cpp" />
+    <img src="https://skillicons.dev/icons?i=django,cpp" />
   </a>
 </p>
 
